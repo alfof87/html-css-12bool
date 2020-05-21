@@ -5,5 +5,21 @@
 }
 .col-1{
   background-color: pink;
-  margin: 2px solid black;
+  border: 2px solid black;
+  height: 200px;
+}
+.col-12{
+  background-color: pink;
+  border: 2px solid black;
+  height: 200px;
+}
+.col-8{
+  background-color: pink;
+  border: 2px solid black;
+  height: 200px;
+}
+.col-2{
+  background-color: pink;
+  border: 2px solid black;
+  height: 200px;
 }
