@@ -3,28 +3,35 @@
   padding: 0;
   box-sizing: border-box;
 }
+p{
+  text-align: center;
+  padding-top: 100px;
+}
 .col-1{
   background-color: pink;
-  border: 2px solid black;
+  border: 1px solid black;
   height: 200px;
 }
 .col-12{
   background-color: pink;
-  border: 2px solid black;
+  border: 1px solid black;
   height: 200px;
 }
 .col-8{
   background-color: pink;
-  border: 2px solid black;
+  border: 1px solid black;
   height: 200px;
 }
 .col-2{
   background-color: pink;
-  border: 2px solid black;
+  border: 1px solid black;
   height: 200px;
 }
 .col-6{
   background-color: pink;
-  border: 2px solid black;
+  border: 1px solid black;
   height: 200px;
+}
+.col-6 > div{
+  background-color: #FA8072;
 }

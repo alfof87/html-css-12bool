@@ -64,3 +64,16 @@
   width: calc((100% / 12) * 12);
 
 }
+
+
+
+/*offset*/
+.col-offset-2{
+  margin: calc((100% / 12) * 2);
+}
+.col-offset-8{
+  margin: calc((100% / 12) * 8);
+}
+.col-offset-6{
+  margin: calc((100% / 12) * 6);
+}
