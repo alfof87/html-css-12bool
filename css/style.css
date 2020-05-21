@@ -7,6 +7,16 @@ p{
   text-align: center;
   padding-top: 100px;
 }
+.container2{
+  border: 5px solid pink;
+  height: 100%;
+  width: 100%;
+}
+.container2::after{
+  content: "";
+  display: table;
+  clear: both;
+}
 .col-1{
   background-color: pink;
   border: 1px solid black;
